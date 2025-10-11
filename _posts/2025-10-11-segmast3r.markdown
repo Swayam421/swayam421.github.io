@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "SegMASt3R: Geometry Grounded Segment Matching"
+date:   2025-10-11
+image: /images/segmast3r-pic.png
+categories: research
+author: "Swayam Agrawal"
+authors: "Rohit Jayanti*, <strong>Swayam Agrawal*</strong>, Vansh Garg*, Siddharth Tourani, Sourav Garg, et. al."
+venue: "NeurIPS"
+arxiv: https://arxiv.org/abs/2510.05051
+code: https://github.com/SegMASt3R
+website: https://segmast3r.github.io/
+spotlight: True
+---
+
+In this work, we establish image segment matching as a benchmark task & we propose a novel model architecture which enables high performance downstream on 3D Instance Mapping & Object-Relative Navigation. Segment matching is an important intermediate task in computer vision that establishes correspondences between semantically or geometrically coherent regions across images. While 2D Foundation models (e.g, DINOv2, SAM2) outperform a 3D foundation model (MASt3R) off-the-shelf for this task, fine-tuning both with a simple segment-matching head alongside SuperGlue style matching results in a surprising trend inversion with SegMASt3R achieving state-of-the-art performance, proving that **explicit geometric reasoning is essential**.

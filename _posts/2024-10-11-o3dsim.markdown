@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "O3D-SIM: Open-set 3D semantic instance maps for vision language navigation"
+date:   2024/10/17
+image: /images/o3dsim-pic.png
+categories: research
+author: "Swayam Agrawal"
+authors: "Laksh Nanwani, Kumaraditya Gupta*, Aditya Mathur*, <strong>Swayam Agrawal</strong>, et. al."
+venue: "Advanced Robotics Journal"
+arxiv: https://arxiv.org/abs/2404.17922
+code: https://github.com/Smart-Wheelchair-RRC/o3d-sim
+website: https://smart-wheelchair-rrc.github.io/o3d-sim-webpage/
+---
+
+In this work, we extend instance-level semantic mapping to 3D. Using foundational models for object recognition, segmentation, and feature extraction, it creates a 3D point cloud with instance-level embeddings that enable language-guided navigation and object queries. The method improves both quantitative task success rates and qualitative instance identification, outperforming closed-set approaches in recognizing unseen objects.
