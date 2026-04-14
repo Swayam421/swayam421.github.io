@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ELT: Elastic Looped Transformers for Visual Generation"
+date:   2026/04/10
+image: /images/representative-elt.png
+categories: research
+author: "Swayam Agrawal"
+authors: "Sahil Goyal*,  <strong>Swayam Agrawal</strong>*, Gautham Govind Anil, Prateek Jain, Sujoy Paul, Aditya Kusupati"
+venue: "preprint"
+arxiv: https://arxiv.org/abs/2604.09168
+---
+
+We introduce Elastic Looped Transformers (ELT), a highly parameter-efficient class of visual generative models based on a recurrent transformer architecture. We propose the idea of Intra-Loop Self Distillation
+(ILSD), where student configurations (intermediate loops) are distilled from the teacher configuration (maximum training loops) to ensure consistency across the model’s depth in a single training step. Our framework yields a family of elastic models from a single training run, enabling Any-Time inference capability with dynamic trade-offs between computational cost and generation quality, with the same parameter count.
