@@ -5,7 +5,7 @@ date:   2024/10/17
 image: /images/o3dsim-pic.png
 categories: research
 author: "Swayam Agrawal"
-authors: "Laksh Nanwani, Kumaraditya Gupta*, Aditya Mathur*, <strong>Swayam Agrawal</strong>, et. al."
+authors: "Laksh Nanwani, Kumaraditya Gupta*, Aditya Mathur*, <strong>Swayam Agrawal</strong>, Abdul Hafez, Madhava Krishna"
 venue: "Advanced Robotics Journal"
 arxiv: https://arxiv.org/abs/2404.17922
 code: https://github.com/Smart-Wheelchair-RRC/o3d-sim
