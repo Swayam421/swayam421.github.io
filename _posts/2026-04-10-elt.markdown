@@ -5,7 +5,7 @@ date:   2026/04/10
 image: /images/representative-elt.png
 categories: research
 author: "Swayam Agrawal"
-authors: "<strong>Swayam Agrawal</strong>*, Sahil Goyal*, Gautham Govind Anil, Prateek Jain, Sujoy Paul, Aditya Kusupati"
+authors: "Sahil Goyal*, <strong>Swayam Agrawal</strong>*, Gautham Govind Anil, Prateek Jain, Sujoy Paul, Aditya Kusupati"
 venue: "preprint"
 arxiv: https://arxiv.org/abs/2604.09168
 ---
